@@ -1,0 +1,51 @@
+﻿{
+  "applicationCaption": "Sektor_podbora_i_razvitiya_personala",
+  "applicationTitle": "Sektor_podbora_i_razvitiya_personala",
+  "items": [
+    {
+      "link": null,
+      "menuName": "специалисты",
+      "caption": "Специалисты",
+      "title": "Специалисты",
+      "children": [
+        {
+          "link": "i-i-s-sektor-podbora-i-razvitiya-personala-специалист-l",
+          "menuName": null,
+          "caption": "Специалист",
+          "title": "",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "статистика-увольнений",
+      "caption": "Статистика увольнений",
+      "title": "Статистика увольнений",
+      "children": [
+        {
+          "link": "i-i-s-sektor-podbora-i-razvitiya-personala-прич-увол-и-реком-l",
+          "menuName": null,
+          "caption": "Прич увол и реком",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-sektor-podbora-i-razvitiya-personala-инф-из-анкет-l",
+          "menuName": null,
+          "caption": "Инф из анкет",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-sektor-podbora-i-razvitiya-personala-анкеты-l",
+          "menuName": null,
+          "caption": "Анкеты",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

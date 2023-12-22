@@ -1,0 +1,4 @@
+import IISSektor_podbora_i_razvitiya_personalaИнфИзАнкетEController from '../i-i-s-sektor-podbora-i-razvitiya-personala-инф-из-анкет-e';
+
+var IISSektor_podbora_i_razvitiya_personalaИнфИзАнкетENewController = IISSektor_podbora_i_razvitiya_personalaИнфИзАнкетEController;
+export default IISSektor_podbora_i_razvitiya_personalaИнфИзАнкетENewController;

@@ -1,0 +1,8 @@
+﻿{
+  "nameSpace": "IIS.Sektor_podbora_i_razvitiya_personala",
+  "className": "Пол",
+  "enumObjects": {
+    "Ж": "Женщина",
+    "М": "Мужчина"
+  }
+}

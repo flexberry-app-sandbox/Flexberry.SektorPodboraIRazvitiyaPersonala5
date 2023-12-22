@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-sektor-podbora-i-razvitiya-personala-инф-из-анкет-e",
+  "editForm": "i-i-s-sektor-podbora-i-razvitiya-personala-инф-из-анкет-e",
+  "external": false,
+  "caption": "Инф из анкет",
+  "name": "IISSektor_podbora_i_razvitiya_personalaИнфИзАнкетL",
+  "className": "ИнфИзАнкетL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-sektor-podbora-i-razvitiya-personala-инф-из-анкет",
+      "modelProjection": "ИнфИзАнкетL"
+    }
+  ]
+}

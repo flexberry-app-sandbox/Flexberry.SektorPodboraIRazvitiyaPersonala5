@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sektor_podbora_i_razvitiya_personala.Objects", "Objects/Sektor_podbora_i_razvitiya_personala.Objects.csproj", "5e9bef61-5dbe-46b3-b573-c0be80e2234d"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sektor_podbora_i_razvitiya_personala.BusinessServers", "BusinessServers/Sektor_podbora_i_razvitiya_personala.BusinessServers.csproj", "8c4a87ff-3cf7-421a-965e-f7d9223c4441"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sektor_podbora_i_razvitiya_personala.Tests", "Tests/Sektor_podbora_i_razvitiya_personala.Tests.csproj", "613a1074-237f-4bfc-9476-696949d9728c"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sektor_podbora_i_razvitiya_personala.ODataBackend", "ODataBackend/Sektor_podbora_i_razvitiya_personala.ODataBackend.csproj", "3c2572e5-b737-4424-bfb3-ea16bbaf3a00"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sektor_podbora_i_razvitiya_personala.IntegrationTests", "IntegrationTests/Sektor_podbora_i_razvitiya_personala.IntegrationTests.csproj", "9d023ac0-0d43-435d-850b-cec4e1e28f42"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+Debug|Any CPU = Debug|Any CPU
+Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		5e9bef61-5dbe-46b3-b573-c0be80e2234d.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		5e9bef61-5dbe-46b3-b573-c0be80e2234d.Debug|Any CPU.Build.0 = Debug|Any CPU
+		5e9bef61-5dbe-46b3-b573-c0be80e2234d.Release|Any CPU.ActiveCfg = Release|Any CPU
+		5e9bef61-5dbe-46b3-b573-c0be80e2234d.Release|Any CPU.Build.0 = Release|Any CPU
+		8c4a87ff-3cf7-421a-965e-f7d9223c4441.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		8c4a87ff-3cf7-421a-965e-f7d9223c4441.Debug|Any CPU.Build.0 = Debug|Any CPU
+		8c4a87ff-3cf7-421a-965e-f7d9223c4441.Release|Any CPU.ActiveCfg = Release|Any CPU
+		8c4a87ff-3cf7-421a-965e-f7d9223c4441.Release|Any CPU.Build.0 = Release|Any CPU
+		613a1074-237f-4bfc-9476-696949d9728c.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		613a1074-237f-4bfc-9476-696949d9728c.Debug|Any CPU.Build.0 = Debug|Any CPU
+		613a1074-237f-4bfc-9476-696949d9728c.Release|Any CPU.ActiveCfg = Release|Any CPU
+		613a1074-237f-4bfc-9476-696949d9728c.Release|Any CPU.Build.0 = Release|Any CPU
+		3c2572e5-b737-4424-bfb3-ea16bbaf3a00.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		3c2572e5-b737-4424-bfb3-ea16bbaf3a00.Debug|Any CPU.Build.0 = Debug|Any CPU
+		3c2572e5-b737-4424-bfb3-ea16bbaf3a00.Release|Any CPU.ActiveCfg = Release|Any CPU
+		3c2572e5-b737-4424-bfb3-ea16bbaf3a00.Release|Any CPU.Build.0 = Release|Any CPU
+		9d023ac0-0d43-435d-850b-cec4e1e28f42.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		9d023ac0-0d43-435d-850b-cec4e1e28f42.Debug|Any CPU.Build.0 = Debug|Any CPU
+		9d023ac0-0d43-435d-850b-cec4e1e28f42.Release|Any CPU.ActiveCfg = Release|Any CPU
+		9d023ac0-0d43-435d-850b-cec4e1e28f42.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

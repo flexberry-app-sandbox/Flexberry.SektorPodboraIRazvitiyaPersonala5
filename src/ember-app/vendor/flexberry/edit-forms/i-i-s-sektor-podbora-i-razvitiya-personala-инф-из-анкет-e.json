@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Анкеты",
+      "projection": "АнкетыL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Инф из анкет",
+  "name": "IISSektor_podbora_i_razvitiya_personalaИнфИзАнкетE",
+  "className": "ИнфИзАнкетE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-sektor-podbora-i-razvitiya-personala-инф-из-анкет",
+      "modelProjection": "ИнфИзАнкетE"
+    }
+  ]
+}

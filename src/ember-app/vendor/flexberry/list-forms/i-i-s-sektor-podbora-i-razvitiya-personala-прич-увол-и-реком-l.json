@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-sektor-podbora-i-razvitiya-personala-прич-увол-и-реком-e",
+  "editForm": "i-i-s-sektor-podbora-i-razvitiya-personala-прич-увол-и-реком-e",
+  "external": false,
+  "caption": "Прич увол и реком",
+  "name": "IISSektor_podbora_i_razvitiya_personalaПричУволИРекомL",
+  "className": "ПричУволИРекомL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-sektor-podbora-i-razvitiya-personala-прич-увол-и-реком",
+      "modelProjection": "ПричУволИРекомL"
+    }
+  ]
+}

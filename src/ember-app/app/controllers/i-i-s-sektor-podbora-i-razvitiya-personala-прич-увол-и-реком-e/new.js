@@ -1,0 +1,4 @@
+import IISSektor_podbora_i_razvitiya_personalaПричУволИРекомEController from '../i-i-s-sektor-podbora-i-razvitiya-personala-прич-увол-и-реком-e';
+
+var IISSektor_podbora_i_razvitiya_personalaПричУволИРекомENewController = IISSektor_podbora_i_razvitiya_personalaПричУволИРекомEController;
+export default IISSektor_podbora_i_razvitiya_personalaПричУволИРекомENewController;

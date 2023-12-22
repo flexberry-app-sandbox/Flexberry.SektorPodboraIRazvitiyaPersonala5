@@ -1,0 +1,137 @@
+﻿{
+  "name": "IISSektor_podbora_i_razvitiya_personalaИнфИзАнкет",
+  "modelName": "i-i-s-sektor-podbora-i-razvitiya-personala-инф-из-анкет",
+  "className": "ИнфИзАнкет",
+  "nameSpace": "IIS.Sektor_podbora_i_razvitiya_personala",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [],
+  "belongsTo": [
+    {
+      "polymorphic": false,
+      "presence": false,
+      "name": "анкеты",
+      "relatedTo": "i-i-s-sektor-podbora-i-razvitiya-personala-анкеты",
+      "inverse": null
+    },
+    {
+      "polymorphic": false,
+      "presence": true,
+      "name": "специалист",
+      "relatedTo": "i-i-s-sektor-podbora-i-razvitiya-personala-специалист",
+      "inverse": null
+    }
+  ],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "ИнфИзАнкетE",
+      "modelName": "i-i-s-sektor-podbora-i-razvitiya-personala-инф-из-анкет",
+      "attrs": [],
+      "belongsTo": [
+        {
+          "lookupValue": "Номер",
+          "lookupValueField": "номер",
+          "relationName": "Анкеты",
+          "belongsTo": [],
+          "hidden": false,
+          "attrs": [
+            {
+              "name": "датаЗаполн",
+              "caption": "Дата заполнения анкеты",
+              "hidden": false,
+              "index": 1
+            },
+            {
+              "name": "главнПричин",
+              "caption": "Причина увольнения",
+              "hidden": false,
+              "index": 2
+            },
+            {
+              "name": "полУволСотр",
+              "caption": "Пол",
+              "hidden": false,
+              "index": 3
+            },
+            {
+              "name": "относКатСотр",
+              "caption": "Категория",
+              "hidden": false,
+              "index": 4
+            },
+            {
+              "name": "возрастСотруд",
+              "caption": "Возраст",
+              "hidden": false,
+              "index": 5
+            }
+          ],
+          "index": 0,
+          "type": "standard",
+          "caption": "Номер анкеты",
+          "name": "анкеты",
+          "relatedTo": "i-i-s-sektor-podbora-i-razvitiya-personala-анкеты",
+          "inverse": null
+        }
+      ],
+      "hasMany": []
+    },
+    {
+      "name": "ИнфИзАнкетL",
+      "modelName": "i-i-s-sektor-podbora-i-razvitiya-personala-инф-из-анкет",
+      "attrs": [],
+      "belongsTo": [
+        {
+          "lookupValue": "Номер",
+          "lookupValueField": "номер",
+          "relationName": "Анкеты",
+          "belongsTo": [],
+          "hidden": false,
+          "attrs": [
+            {
+              "name": "датаЗаполн",
+              "caption": "Дата заполнения анкеты",
+              "hidden": false,
+              "index": 1
+            },
+            {
+              "name": "главнПричин",
+              "caption": "Причина увольнения",
+              "hidden": false,
+              "index": 2
+            },
+            {
+              "name": "полУволСотр",
+              "caption": "Пол",
+              "hidden": false,
+              "index": 3
+            },
+            {
+              "name": "относКатСотр",
+              "caption": "Категория",
+              "hidden": false,
+              "index": 4
+            },
+            {
+              "name": "возрастСотруд",
+              "caption": "Возраст",
+              "hidden": false,
+              "index": 5
+            }
+          ],
+          "index": 0,
+          "type": "standard",
+          "caption": "Номер анкеты",
+          "name": "анкеты",
+          "relatedTo": "i-i-s-sektor-podbora-i-razvitiya-personala-анкеты",
+          "inverse": null
+        }
+      ],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Специалист",
+      "projection": "СпециалистL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Прич увол и реком",
+  "name": "IISSektor_podbora_i_razvitiya_personalaПричУволИРекомE",
+  "className": "ПричУволИРекомE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-sektor-podbora-i-razvitiya-personala-прич-увол-и-реком",
+      "modelProjection": "ПричУволИРекомE"
+    }
+  ]
+}
