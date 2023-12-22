@@ -20,7 +20,6 @@ export let ValidationRules = {
     descriptionKey: 'models.i-i-s-sektor-podbora-i-razvitiya-personala-инф-из-анкет.validations.специалист.__caption__',
     validators: [
       validator('ds-error'),
-      validator('presence', true),
     ],
   },
 };

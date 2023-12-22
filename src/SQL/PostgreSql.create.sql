@@ -29,7 +29,7 @@ CREATE TABLE Анкеты (
 
 CREATE TABLE ИнфИзАнкет (
  primaryKey UUID NOT NULL,
- Специалист UUID NOT NULL,
+ Специалист UUID NULL,
  Анкеты UUID NULL,
  PRIMARY KEY (primaryKey));
 

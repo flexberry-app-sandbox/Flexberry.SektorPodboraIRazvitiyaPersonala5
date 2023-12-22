@@ -53,7 +53,7 @@ CREATE TABLE "ИнфИзАнкет"
 
 	"primaryKey" RAW(16) NOT NULL,
 
-	"Специалист" RAW(16) NOT NULL,
+	"Специалист" RAW(16) NULL,
 
 	"Анкеты" RAW(16) NULL,
 

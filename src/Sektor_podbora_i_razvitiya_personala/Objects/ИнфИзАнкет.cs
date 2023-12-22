@@ -98,7 +98,6 @@ namespace IIS.Sektor_podbora_i_razvitiya_personala
         // *** End programmer edit section *** (ИнфИзАнкет.Специалист CustomAttributes)
         [PropertyStorage(new string[] {
                 "Специалист"})]
-        [NotNull()]
         public virtual IIS.Sektor_podbora_i_razvitiya_personala.Специалист Специалист
         {
             get

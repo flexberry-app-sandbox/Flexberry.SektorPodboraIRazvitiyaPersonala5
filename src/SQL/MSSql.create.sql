@@ -50,7 +50,7 @@ CREATE TABLE [ИнфИзАнкет] (
 
 	 [Анкеты] UNIQUEIDENTIFIER  NULL,
 
-	 [Специалист] UNIQUEIDENTIFIER  NOT NULL,
+	 [Специалист] UNIQUEIDENTIFIER  NULL,
 
 	 PRIMARY KEY ([primaryKey]))
 

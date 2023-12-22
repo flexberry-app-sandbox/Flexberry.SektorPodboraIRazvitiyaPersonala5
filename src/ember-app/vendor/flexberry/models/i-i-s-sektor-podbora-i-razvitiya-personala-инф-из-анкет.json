@@ -16,7 +16,7 @@
     },
     {
       "polymorphic": false,
-      "presence": true,
+      "presence": false,
       "name": "специалист",
       "relatedTo": "i-i-s-sektor-podbora-i-razvitiya-personala-специалист",
       "inverse": null

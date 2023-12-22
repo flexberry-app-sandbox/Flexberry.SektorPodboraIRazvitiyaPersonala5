@@ -28,7 +28,7 @@ export default Controller.extend({
             link: 'i-i-s-sektor-podbora-i-razvitiya-personala-специалист-l',
             caption: i18n.t('forms.application.sitemap.специалисты.i-i-s-sektor-podbora-i-razvitiya-personala-специалист-l.caption'),
             title: i18n.t('forms.application.sitemap.специалисты.i-i-s-sektor-podbora-i-razvitiya-personala-специалист-l.title'),
-            icon: 'chart bar',
+            icon: 'building',
             children: null
           }]
         }, {
@@ -40,13 +40,13 @@ export default Controller.extend({
             link: 'i-i-s-sektor-podbora-i-razvitiya-personala-прич-увол-и-реком-l',
             caption: i18n.t('forms.application.sitemap.статистика-увольнений.i-i-s-sektor-podbora-i-razvitiya-personala-прич-увол-и-реком-l.caption'),
             title: i18n.t('forms.application.sitemap.статистика-увольнений.i-i-s-sektor-podbora-i-razvitiya-personala-прич-увол-и-реком-l.title'),
-            icon: 'tags',
+            icon: 'phone',
             children: null
           }, {
             link: 'i-i-s-sektor-podbora-i-razvitiya-personala-инф-из-анкет-l',
             caption: i18n.t('forms.application.sitemap.статистика-увольнений.i-i-s-sektor-podbora-i-razvitiya-personala-инф-из-анкет-l.caption'),
             title: i18n.t('forms.application.sitemap.статистика-увольнений.i-i-s-sektor-podbora-i-razvitiya-personala-инф-из-анкет-l.title'),
-            icon: 'folder',
+            icon: 'briefcase',
             children: null
           }, {
             link: 'i-i-s-sektor-podbora-i-razvitiya-personala-анкеты-l',
